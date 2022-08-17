@@ -1,2 +1,2 @@
 # Weekly-Programing
-### First week
+### First week--> factorial1 and factorial2
